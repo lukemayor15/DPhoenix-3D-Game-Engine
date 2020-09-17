@@ -1,6 +1,7 @@
 # DPhoenix-3D-Game-Engine
 A tatical-turn based stragety game created with a bepsoke game engine( made during my time at university).
-To run it requires microsoft  DirectX SDK (June 2010)to be installed.
+To run it requires microsoft  DirectX SDK (June 2010)to be installed and for the bin folder zip to be extracted.
+A
 
 Controls 
 mouse clcik to select your team, their level, their actions and movement path.
